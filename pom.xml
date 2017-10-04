@@ -122,7 +122,7 @@
         <server>tomcat-development-server</server> 
         <url>http://144.38.201.212:8080/manager/text</url> 
         <warFile>target\demo.war</warFile> 
-        <path>/demo</path> 
+        <path>/SpringBootDemo</path> 
         <username>admin</username>
         <password>1234</password>
         </configuration> 
